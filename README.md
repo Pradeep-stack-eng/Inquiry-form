@@ -24,3 +24,11 @@ Fill in the fields with relevant information.
 Click the Submit button to complete the inquiry submission.
 
 **Note: This form currently does not have a backend integration. For storing or managing submissions, a backend service will be required.**
+
+**Screenshots-**
+
+![Screenshot 2024-10-28 072903](https://github.com/user-attachments/assets/c375a638-2548-4b21-92ad-be9a5ddea922)
+
+![Screenshot 2024-10-28 072948](https://github.com/user-attachments/assets/9c72c6f1-804f-49d3-b381-79377f5bb027)
+
+
